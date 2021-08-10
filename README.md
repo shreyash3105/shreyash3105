@@ -1,5 +1,4 @@
 ### Hi there 👋
-<br></br>
 <hr>
 ![](https://komarev.com/ghpvc/?username=shreyash3105)
 <!--
