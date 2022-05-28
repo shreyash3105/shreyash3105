@@ -1,4 +1,4 @@
-<img src="https://github-hero-readme.vercel.app/api?username=shreyash3105&linkedin=shreyash-amberkhane&twitter=shreyashamberkhane&description=">
+<img src="https://github-hero-readme.vercel.app/api?username=shreyash3105&linkedin=shreyashamberkhane&twitter=shreyashamberkhane&description=">
 
 ## 🚀 Languages and Tools
 
